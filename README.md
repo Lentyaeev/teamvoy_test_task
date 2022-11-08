@@ -7,7 +7,7 @@
   - User can search articles for some time period
 - Endpoint:  GET /everything
 - NEWS API: https://newsapi.org/v2/everything
-- APK Link: https://drive.google.com/file/d/1W-OI3vnXnRMZuUxWVf7LV2ebkpqoqrzS/view?usp=share_link
+- APK Link: https://expo.dev/artifacts/eas/4xb91yw8nn2VLUUAU1XAMz.apk
 - App Result: 
 
 
